@@ -1,0 +1,2 @@
+/Users/didemcicekkaraoz/StudioProjects/map_app/android/app/.cxx/Debug/38616962/x86_64/CMakeFiles/edit_cache.dir
+/Users/didemcicekkaraoz/StudioProjects/map_app/android/app/.cxx/Debug/38616962/x86_64/CMakeFiles/rebuild_cache.dir
